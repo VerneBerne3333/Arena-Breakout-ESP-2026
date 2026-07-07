@@ -1,3 +1,5 @@
+
+
 int count = 25;                       // Whole numbers (integers)
 double price = 19.99;               // Floating-point numbers (decimals)
 string name = "Alice";              // Text data
