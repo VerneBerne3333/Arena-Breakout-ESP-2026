@@ -5,6 +5,7 @@ function calculateTotal(price, taxRate) {
 
 // Calling the function
 const finalAmount = calculateTotal(100, 0.05); 
+
 console.log(finalAmount); // Outputs: 105
 
 
